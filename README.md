@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">Making my own way through development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitsuwu" alt="jitsuwu" /></a> </p>
-
 - 🌱 I’m currently learning **to become a Jr. Developer**
 
 - 👨‍💻 All of my projects are available at [https://portafolio-web-two-alpha.vercel.app](https://portafolio-web-two-alpha.vercel.app)
