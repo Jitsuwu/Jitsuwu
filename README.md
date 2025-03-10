@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">Making my own way through development</h3>
 
-- 🌱 I’m currently learning **to become a Jr. Developer**
+<p align="center"> <img src="files/codingspace.gif" /> </p>
 
-<img src="codingspace.gif">
+- 🌱 I’m currently learning **to become a Jr. Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jitsuwu?tab=repositories](https://github.com/Jitsuwu?tab=repositories)
 
