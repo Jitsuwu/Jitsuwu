@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **to become a Jr. Developer**
 
+<img src="codingspace.gif">
+
 - 👨‍💻 All of my projects are available at [https://github.com/Jitsuwu?tab=repositories](https://github.com/Jitsuwu?tab=repositories)
 
 - 📝You can see my articles on [https://portafolio-web-two-alpha.vercel.app/blog.html](https://portafolio-web-two-alpha.vercel.app/blog.html)
