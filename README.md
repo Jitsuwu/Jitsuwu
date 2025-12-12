@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="files/codingspace.gif" /> </p>
 
-- 🌱 I’m currently learning **to become a Jr. Developer**
+- 🌱 I’m currently learning **to become a CyberSecurity Officer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jitsuwu?tab=repositories](https://github.com/Jitsuwu?tab=repositories)
 
